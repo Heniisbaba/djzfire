@@ -1,0 +1,29 @@
+.timeline .image_roll_zoom {
+    background: url("skins/default/images/zoomIn.png") no-repeat center center !important;
+}
+
+.timeline.flatNav .t_right:hover,
+#content .timeline.flatNav .t_right:hover,
+.timeline.flatNav .t_right,
+#content .timeline.flatNav .t_right {
+    background-image: url("skins/default/images/arrow-right.png") !important;
+}
+
+.timeline.flatNav .t_left,
+#content .timeline.flatNav .t_left,
+.timeline.flatNav .t_left:hover,
+#content .timeline.flatNav .t_left:hover {
+    background-image: url("skins/default/images/arrow-left.png") !important;
+}
+
+.sc_events_style_events-1 .sc_events_item_date {
+    background: transparent url("skins/default/images/bg_pazzle.png") no-repeat center;
+}
+
+.sc_events_style_events-3 .sc_events_item div.sc_events_item_date {
+    background: url("skins/default/images/bg_pazzle.png") no-repeat center;
+}
+
+.timeline .item .post_date {
+    background: transparent url("skins/default/images/bg_pazzle.png") no-repeat center !important;
+}
